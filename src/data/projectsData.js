@@ -11,12 +11,12 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Proximamente',
-        projectDesc: '',
-        tags: [''],
-        code: '',
-        demo: '',
-        image: ''
+        projectName: 'Encriptador Javascript',
+        projectDesc: 'Este proyecto consiste en el primer desafío propuesto por ALURA ORACLE ONE.',
+        tags: ['HTML', 'CSS', 'JAVASCRIPT'],
+        code: 'https://github.com/Breakingsoft/encriptador_js_alura',
+        demo: 'https://breakingsoft.github.io/encriptador_js_alura/',
+        image: 'https://raw.githubusercontent.com/Breakingsoft/encriptador_js_alura/7b718b0f02ffbb9c126fd60d0087359b642d33ab/assets/images/menasje_secreto.png'
     }, 
     /* 
     {

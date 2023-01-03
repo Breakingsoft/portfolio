@@ -4,11 +4,11 @@ export const educationData = [
         institution: 'Innovacción Virtual (Microsoft X Launch LATAM)',
         course: 'Full stack web developer',
         startYear: '2022',
-        endYear: '2022'
+        endYear: 'Actualmente'
     },
     {
         id: 2,
-        institution: 'Oracle Next Academy (ONE), ALURA LATAM)',
+        institution: 'Oracle Next Academy (ONE), ALURA LATAM',
         course: 'Back end web developer',
         startYear: '2022',
         endYear: 'Actualmente'

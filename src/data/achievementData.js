@@ -1,23 +1,33 @@
+import desarrolloPersonal from '../assets/certificates/desarrollo_personal.jpg'
+import logicaProgramacion from '../assets/certificates/principiante_programacion.jpg'
+import three from '../assets/svg/projects/three.svg'
+import four from '../assets/svg/projects/four.svg'
+import five from '../assets/svg/projects/five.svg'
+import six from '../assets/svg/projects/six.svg'
+import seven from '../assets/svg/projects/seven.svg'
+import eight from '../assets/svg/projects/eight.svg'
+
 export const achievementData = {
     bio : "Los analfabetos del siglo 21 no serán aquellos que no saben leer y escribir, sino aquellos que no pueden aprender, desaprender y volver a aprender. - Alvin Toffler",
     achievements : [
         {
             id : 1,
-            title : '',
-            details : '',
-            date : '',
-            field : 'Coding',
-            image : ''
+            title : 'Desarrollo Personal - ONE',
+            details : 'Desarrolla habilidades y hábitos fundamentales para el mercado de trabajo',
+            date : '28 Noviembre 2022',
+            field : 'Desarrollo personal',
+            image : desarrolloPersonal
         },
-        /* 
+         
         {
             id : 2,
-            title : 'The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert',
-            details : 'A MySQL course from Udemy',
-            date : 'May 25, 2021',
-            field : 'Database',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-91ae3ea2-39ee-4a57-bf23-d397aff0d9a7.jpg?v=1621951317000'
+            title : 'Principiante en Programación - ONE',
+            details : 'Creación de páginas web utilizando los lenguajes populares de HTML, CSS y JavaScript',
+            date : '30 Diciembre 2022',
+            field : 'Código',
+            image : logicaProgramacion
         },
+        /*
         {
             id : 3,
             title : 'Machine Learning A-Z: Hands-On Python & R in Data Science',
