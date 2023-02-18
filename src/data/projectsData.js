@@ -18,6 +18,24 @@ export const projectsData = [
         demo: 'https://breakingsoft.github.io/encriptador_js_alura/',
         image: 'https://raw.githubusercontent.com/Breakingsoft/encriptador_js_alura/7b718b0f02ffbb9c126fd60d0087359b642d33ab/assets/images/menasje_secreto.png'
     }, 
+    {
+        id: 2,
+        projectName: 'Panadería Blé D-art',
+        projectDesc: 'Este proyecto consiste en el primer desafío propuesto por Microsoft Launch X LATAM e Innovaccion.',
+        tags: ['HTML', 'CSS', 'JAVASCRIPT'],
+        code: 'https://github.com/Breakingsoft/ble-dart',
+        demo: 'https://breakingsoft.github.io/ble-dart/',
+        image: 'https://raw.githubusercontent.com/Breakingsoft/ble-dart/master/assets/images/bledart.png'
+    }, 
+    {
+        id: 3,
+        projectName: 'Vaccination',
+        projectDesc: 'Este proyecto consiste en el segundo desafío propuesto por Microsoft Launch X LATAM e Innovaccion.',
+        tags: ['HTML', 'CSS'],
+        code: 'https://github.com/Breakingsoft/vaccination',
+        demo: 'https://breakingsoft.github.io/vaccination/',
+        image: 'https://raw.githubusercontent.com/Breakingsoft/vaccination/main/assets/img/vaccination.png'
+    }, 
     /* 
     {
         id: 1,

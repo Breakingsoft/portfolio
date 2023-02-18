@@ -1,5 +1,6 @@
 import desarrolloPersonal from '../assets/certificates/desarrollo_personal.jpg'
 import logicaProgramacion from '../assets/certificates/principiante_programacion.jpg'
+import empresaagil from '../assets/certificates/bussines_agility.jpg'
 import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
@@ -27,15 +28,16 @@ export const achievementData = {
             field : 'Código',
             image : logicaProgramacion
         },
-        /*
+    
         {
             id : 3,
-            title : 'Machine Learning A-Z: Hands-On Python & R in Data Science',
-            details : 'Data Science Course from Udemy',
-            date : 'Apr 13, 2021',
-            field : 'Machine Learning',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-d9a7ba99-8635-47e6-96fc-7dd26a3dcbf1.jpg?v=1618297236000'
+            title : 'Business Agility',
+            details : 'Prepare su organización para la transformación ágil',
+            date : '3 Febrero 2023',
+            field : 'Empresa Ágil',
+            image : empresaagil
         },
+        /*
         {
             id : 3,
             title : 'R Programming A-Z: R For Data Science With Real Exercises!',
