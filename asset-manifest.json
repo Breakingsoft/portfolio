@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d1f93b55.chunk.css",
-    "main.js": "/portfolio/static/js/main.659ba7f1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.659ba7f1.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.afd5f7da.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.afd5f7da.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.ecf17a82.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.ecf17a82.js.map",
     "static/css/2.3c703e91.chunk.css": "/portfolio/static/css/2.3c703e91.chunk.css",
@@ -30,6 +30,7 @@
     "static/media/boy2.ece5c080.svg": "/portfolio/static/media/boy2.ece5c080.svg",
     "static/media/boy3.a46b5f81.svg": "/portfolio/static/media/boy3.a46b5f81.svg",
     "static/media/bulma.5910d441.svg": "/portfolio/static/media/bulma.5910d441.svg",
+    "static/media/bussines_agility.c0adf8d4.jpg": "/portfolio/static/media/bussines_agility.c0adf8d4.jpg",
     "static/media/bwTheme-boy.fbbb191f.svg": "/portfolio/static/media/bwTheme-boy.fbbb191f.svg",
     "static/media/bwTheme-girl.c74f28ac.svg": "/portfolio/static/media/bwTheme-girl.c74f28ac.svg",
     "static/media/c.77377419.svg": "/portfolio/static/media/c.77377419.svg",
@@ -159,6 +160,6 @@
     "static/css/2.3c703e91.chunk.css",
     "static/js/2.82101b6e.chunk.js",
     "static/css/main.d1f93b55.chunk.css",
-    "static/js/main.659ba7f1.chunk.js"
+    "static/js/main.afd5f7da.chunk.js"
   ]
 }
